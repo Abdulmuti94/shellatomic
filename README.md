@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 <div class="headline" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&width=600&height=50&lines=Stats:" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&width=600&height=50&lines=Statistics:" alt="Headline" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shellatomic&show_icons=true&theme=codeSTACKr&hide=contribs&count_private=true)
