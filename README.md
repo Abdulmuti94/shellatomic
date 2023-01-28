@@ -1,4 +1,4 @@
-
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=%20Hi%20There%20👋&fontSize=50)](https://github.com/shellatomic)
 
 <!--
 **shellatomic/shellatomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
