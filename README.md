@@ -1,5 +1,10 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=%20Hi%20There%20👋&fontSize=50)](https://github.com/shellatomic)
 
+
+<div class="headline" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Headline" />
+</div>
+
 <!--
 **shellatomic/shellatomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
