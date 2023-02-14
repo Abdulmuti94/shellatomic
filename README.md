@@ -31,5 +31,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&width=600&height=50&lines=Statistics:" alt="Headline" />
 </div>
 
+![snake gif](https://github.com/shellatomic/shellatomic/blob/output/github-contribution-grid-snake.gif)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shellatomic&show_icons=true&theme=codeSTACKr&hide=contribs&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellatomic&" alt="shellatomic" /></p>
